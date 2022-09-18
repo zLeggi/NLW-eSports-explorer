@@ -151,7 +151,7 @@ main section:nth-child(3){
 
   from{
     opacity: 0;
-    transform: translatex(32px);
+    transform: translatex(-132px);
   }
 
   to{
