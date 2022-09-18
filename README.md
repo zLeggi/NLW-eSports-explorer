@@ -5,7 +5,7 @@
 
 ![preview](./.github/preview.png)
 
-🔗[clique aqui para acessar](https://zLeggi.github.io/nlw-esports-explorer/)
+
 ## 💻 Tecnologias 
 
 - HTML
